@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 /**
  * 
  * @author Nezih Yigitbasi 
- * Example to run Giraph page rank from java. Tested with Giraph 1.1.0 and Hadoop
+ * Example to run Giraph pagerank from a java app.
  */
 public class Main {
 
