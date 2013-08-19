@@ -12,4 +12,5 @@ Demonstrates how to run Giraph pagerank within a Java app. Sample input graph is
 * Run the algorithm
    ./run_pagerank.sh
 
-Please take a look at Main.java to play with the parameters of the algorithm. 
+Please take a look at Main.java to play with the parameters of the algorithm. If you change the source and rebuild it, don't forget to update the 
+GiraphPagerankRunner-1.0.0-SNAPSHOT.jar under lib/ as run_pagerank.sh uses that.
