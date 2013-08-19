@@ -1,0 +1,4 @@
+runner\giraph\Main.class
+runner\giraph\PageRankRunner.class
+runner\giraph\AlgorithmParameters.class
+runner\giraph\GiraphAlgorithm.class
